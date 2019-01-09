@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant|Comfortaa|Monoton|Questrial');
+
+  h1 {
+    margin:auto auto 0 auto;
+    font-family: 'Monoton', cursive;
+    font-size: 4em;
+    font-weight:100;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-family: 'Monoton', cursive;
+    font-weight:100;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    font-family: 'Monoton', cursive;
+    font-weight:100;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-family: 'Assistant', sans-serif;
+  }
+
+  .subtitle {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: grey;
+  }
